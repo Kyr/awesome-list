@@ -49,3 +49,7 @@ in order of closing tabs:
 ### Animation
 - [React-Motion](https://github.com/chenglou/react-motion)
 - [React Transition Group](https://reactcommunity.org/react-transition-group/)
+
+
+## state management and state
+- interestimg [fre(a)ctal](https://github.com/FormidableLabs/freactal)
