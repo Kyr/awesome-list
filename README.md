@@ -59,6 +59,6 @@ in order of closing tabs:
 
 this one is not complete list of tools, for a while it will a list for some kind future review/research
 
-- [jake](https://github.com/jakejs/jake) - 
+- [jake](https://github.com/jakejs/jake) - Not sure, which reason to exists, excluding "why not".
 > Jake is the JavaScript build tool for NodeJS. Jake has been around since the very early days of Node, and is very full featured and well tested.
-Not sure, which reason to exists, excluding "why not".
+
