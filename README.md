@@ -64,7 +64,7 @@ this one is not complete list of tools, for a while it will a list for some kind
 > Jake is the JavaScript build tool for NodeJS. Jake has been around since the very early days of Node, and is very full featured and well tested.
 
 ## routers (except r-r)
-- (universal)[https://github.com/kriasoft/universal-router]
-- (router5)[https://github.com/router5/router5]
-- (ui-router)[https://ui-router.github.io/] - for ng and react
-- (vaadin)[https://www.webcomponents.org/element/vaadin/router] - for web components
+- [universal](https://github.com/kriasoft/universal-router)
+- [router5](https://github.com/router5/router5)
+- [ui-router](https://ui-router.github.io/) - for ng and react
+- [vaadin](https://www.webcomponents.org/element/vaadin/router) - for web components
